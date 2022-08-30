@@ -1,4 +1,4 @@
-# AWSProjects
+# AWSListProject (Python)
 # [ ] Create a list of AWS Service Inventory 
 
 # 1) The list you'll create will be empty intially 
